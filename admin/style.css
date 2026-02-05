@@ -1,0 +1,31 @@
+
+body.bg {
+    margin: 0;
+    font-family: Arial;
+    background: url("background.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.card {
+    width: 360px;
+    margin: 80px auto;
+    background: rgba(255,255,255,0.95);
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input, textarea, button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+button {
+    background: #005eff;
+    color: white;
+    border: none;
+}
+
+.error { color: red; }
+.success { color: green; }

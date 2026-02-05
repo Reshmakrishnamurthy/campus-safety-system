@@ -1,0 +1,80 @@
+body {
+    background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+    url("../assets/campus.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.btn-primary {
+    background-color: #800000;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #a00000;
+}
+
+.navbar {
+    background-color: #800000;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
+.form-page {
+    background: linear-gradient(120deg,#0f2027,#203a43,#2c5364);
+    min-height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.form-card {
+    background:#fff;
+    padding:30px;
+    width:420px;
+    border-radius:12px;
+    box-shadow:0 10px 30px rgba(0,0,0,.2);
+}
+
+.form-card h2 {
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.form-card label {
+    font-weight:600;
+    margin-top:12px;
+    display:block;
+}
+
+.form-card input,
+.form-card select,
+.form-card textarea {
+    width:100%;
+    padding:10px;
+    margin-top:6px;
+    border-radius:6px;
+    border:1px solid #ccc;
+}
+
+.form-card button {
+    margin-top:20px;
+    width:100%;
+    padding:12px;
+    background:#203a43;
+    color:#fff;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.form-card button:hover {
+    background:#2c5364;
+}
