@@ -1,0 +1,114 @@
+body {
+    font-family: Arial;
+    background: #f2f4f8;
+    margin: 0;
+}
+
+header {
+    background: #002147;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+nav {
+    background: #004080;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    background: white;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+input, select, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    background: #002147;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+body {
+    font-family: Arial;
+    background: #f2f4f8;
+    margin: 0;
+}
+
+header {
+    background: #002147;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+nav {
+    background: #004080;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    background: white;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+input, select, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    background: #002147;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+pre {
+    background: rgba(255,255,255,0.85);
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+iframe {
+    margin-top: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
